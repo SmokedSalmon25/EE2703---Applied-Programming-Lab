@@ -1,0 +1,5 @@
+.circuit
+V1   1 GND  dc gaandu
+R1   2   1     2
+R2   2 GND     3
+.end
